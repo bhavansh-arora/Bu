@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874049559037",
+    "project_id": "buca-3b3d5",
+    "storage_bucket": "buca-3b3d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874049559037:android:691ca5ed13110217ed6194",
+        "android_client_info": {
+          "package_name": "com.buca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874049559037-lij6n808fbnej1qcehtbvkpm46mm3704.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXPgcfRuAnJLSY86DiwlvooiYcP8bWTXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874049559037-lij6n808fbnej1qcehtbvkpm46mm3704.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
